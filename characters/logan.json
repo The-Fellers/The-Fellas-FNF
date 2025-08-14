@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-209, -302],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "logan idle"
+		},
+		{
+			"offsets": [-200, -242],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "logan left"
+		},
+		{
+			"offsets": [-193, -237],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "logan right"
+		},
+		{
+			"offsets": [-233, -247],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "logan down"
+		},
+		{
+			"offsets": [-208, -118],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "logan up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/logan",
+	"position": [-150, 100],
+	"healthicon": "logan",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

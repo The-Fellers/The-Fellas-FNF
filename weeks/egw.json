@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"sakawa",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"gg",
+		"firemen",
+		"gf"
+	],
+	"storyName": "goatygold",
+	"weekName": "egw",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

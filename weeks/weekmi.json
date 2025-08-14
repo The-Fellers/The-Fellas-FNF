@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"mickeymouse",
+			"mick",
+			[
+				255,
+				0,
+				15
+			]
+		],
+		[
+			"innocent",
+			"mick",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"insane",
+			"mick",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"Mickmen",
+		"firemen",
+		"gf"
+	],
+	"storyName": "Mickey",
+	"weekName": "MICKEY",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

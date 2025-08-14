@@ -1,0 +1,145 @@
+{
+	"events": [
+		[
+			22400,
+			[
+				["Play Animation", "what", "firey"],
+				["Play Animation", "what", "firey"],
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			22500,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			22600,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			22700,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			22800,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			22900,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			23000,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			23100,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			23200,
+			[
+				["Play Animation", "what", "firey"]
+			]
+		],
+		[
+			40900,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			40900,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41000,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41000,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41100,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41100,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41200,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41200,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41300,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41300,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41400,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41400,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41500,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		],
+		[
+			41500,
+			[
+				["Play Animation", "uh", "bigmicki"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

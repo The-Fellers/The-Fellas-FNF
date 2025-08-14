@@ -1,0 +1,36 @@
+{
+	"storyName": "skibidi",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Squidward-yell-2",
+			"logan",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Testytest",
+			"logan",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"loganmenu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "logany"
+}
