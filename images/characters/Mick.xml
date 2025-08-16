@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mick.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1844" y="0" width="366" height="600" frameX="-201" frameY="-42" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0001" x="960" y="539" width="425" height="617" frameX="-159" frameY="-21" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0002" x="2210" y="0" width="325" height="619" frameX="-215" frameY="-4" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0003" x="0" y="1202" width="371" height="592" frameX="-146" frameY="-40" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0004" x="2210" y="0" width="325" height="619" frameX="-215" frameY="-4" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0005" x="960" y="539" width="425" height="617" frameX="-159" frameY="-21" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0006" x="1844" y="0" width="366" height="600" frameX="-201" frameY="-42" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0000" x="0" y="0" width="476" height="588" frameX="-101" frameY="-54" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0001" x="447" y="588" width="470" height="580" frameX="-107" frameY="-55" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0000" x="0" y="588" width="447" height="614" frameX="-134" frameY="-12" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0001" x="476" y="0" width="484" height="576" frameX="-137" frameY="-33" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right0000" x="1844" y="600" width="362" height="586" frameX="-83" frameY="-35" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right0001" x="1450" y="0" width="394" height="590" frameX="-87" frameY="-44" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0000" x="1450" y="590" width="377" height="598" frameX="-143" frameY="-34" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0001" x="960" y="0" width="490" height="539" frameX="-60" frameY="-79" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

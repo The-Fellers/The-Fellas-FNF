@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gelatin .png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="1226" width="344" height="393" frameX="-133" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Up0000" x="476" y="426" width="474" height="393" frameX="-67" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Up0001" x="0" y="426" width="476" height="407" frameX="-66" frameY="-188" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Down0000" x="1485" y="0" width="432" height="393" frameX="-97" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Down0001" x="902" y="833" width="434" height="393" frameX="-96" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Left0000" x="453" y="833" width="449" height="393" frameX="-28" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Left0001" x="1018" y="393" width="463" height="393" frameX="-20" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right0000" x="0" y="833" width="453" height="393" frameX="-133" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Right0001" x="1018" y="0" width="467" height="393" frameX="-127" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Scared0000" x="1485" y="819" width="344" height="393" frameX="-133" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Scared0001" x="344" y="1226" width="344" height="393" frameX="-133" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Cheer 0000" x="510" y="0" width="508" height="393" frameX="-42" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Cheer 0001" x="0" y="0" width="510" height="426" frameX="-41" frameY="-169" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Sad0000" x="1485" y="393" width="346" height="426" frameX="-132" frameY="-169" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Sad0001" x="688" y="1226" width="346" height="377" frameX="-132" frameY="-218" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Duck0000" x="1034" y="1226" width="371" height="288" frameX="-131" frameY="-282" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Duck0001" x="1405" y="1226" width="371" height="259" frameX="-131" frameY="-311" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
