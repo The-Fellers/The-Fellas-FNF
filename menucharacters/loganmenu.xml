@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loganmenu.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="menidle0000" x="0" y="0" width="144" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="menidle0001" x="0" y="0" width="144" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="menidle0002" x="0" y="0" width="144" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0000" x="287" y="0" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0001" x="0" y="314" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0002" x="429" y="314" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0003" x="430" y="157" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0004" x="430" y="0" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0005" x="143" y="157" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0006" x="143" y="314" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0007" x="286" y="157" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0008" x="144" y="0" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0009" x="286" y="314" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0010" x="573" y="0" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0011" x="573" y="157" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+	<SubTexture name="select0012" x="0" y="157" width="143" height="157" frameX="2" frameY="2" frameWidth="140" frameHeight="153"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Fire idle",
+	"image": "firemen",
+	"position": [182, 99],
+	"flipX": false,
+	"antialiasing": false,
+	"scale": 0.4,
+	"confirm_anim": "Fire select"
+}

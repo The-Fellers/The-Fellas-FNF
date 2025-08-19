@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "Mickmen",
+	"position": [182, 99],
+	"flipX": false,
+	"antialiasing": false,
+	"scale": 0.4,
+	"confirm_anim": "up"
+}

@@ -1,0 +1,9 @@
+{
+	"idle_anim": "menidle",
+	"image": "loganmenu",
+	"position": [0, -114],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1.5,
+	"confirm_anim": "select"
+}
