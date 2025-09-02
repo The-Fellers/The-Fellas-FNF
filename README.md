@@ -33,9 +33,17 @@ MAPLE
 FIREY 2.0
 
 
-TOOTFRES
+TOOTHFRES
 
 COINMEISTER
+
+LEAFTAL
+
+PIN
+
+and you can play as a tree for sum reason???
+
+ANYWAYS
 
 
 dope ass mod 
