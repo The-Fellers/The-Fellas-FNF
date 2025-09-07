@@ -27,7 +27,7 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/firey",
+	"image": "characters/firerect",
 	"position": [0, 350],
 	"healthicon": "bf",
 	"flip_x": true,

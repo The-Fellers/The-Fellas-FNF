@@ -1,0 +1,1 @@
+Art files for the drawn icons. Open these in a program called Krita.

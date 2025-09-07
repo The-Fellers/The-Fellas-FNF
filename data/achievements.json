@@ -1,0 +1,62 @@
+[
+	{
+		"save": "dieasgelatin",
+		"name": "what a dumbass.",
+		"description": "You died while playing as Gelatin.",
+		"hidden": false
+	},
+	{
+		"save": "dieascoin",
+		"name": "Coin Toss",
+		"description": "You died while playing as Coinster.",
+		"hidden": false
+	},
+	{
+		"save": "dieasfire",
+		"name": "AEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+		"description": "You died while playing as Firey.",
+		"hidden": false
+	},
+	{
+		"save": "dieasblocky",
+		"name": "Broken Block",
+		"description": "You died while playing as Blocky.",
+		"hidden": false
+	},
+	{
+		"save": "beat",
+		"name": "cube with less edges huh?",
+		"description": "Cleared WeekBL on any difficulty.",
+		"hidden": false
+	},
+	{
+		"save": "mickeywin",
+		"name": "Mouse Defeated",
+		"description": "Cleared Mickey Week on any difficulty.",
+		"hidden": false
+	},
+	{
+		"save": "fire20",
+		"name": "Rekindled Flame",
+		"description": "Cleared Week20 on any difficulty.",
+		"hidden": false
+	},
+	{
+		"save": "march23",
+		"name": "Happy Birthday, Coinster!",
+		"description": "You played on March 23rd, Coinster’s birthday.",
+		"hidden": false
+	},
+	{
+		"save": "april12",
+		"name": "Happy Birthday, Firey!",
+		"description": "You played on April 12th, Firey’s birthday.",
+		"hidden": false
+	},
+	{
+		"save": "july8",
+		"name": "Happy Birthday, Gelatin!",
+		"description": "You played on July 8th, Gelatin’s birthday.",
+		"hidden": false
+	}
+]

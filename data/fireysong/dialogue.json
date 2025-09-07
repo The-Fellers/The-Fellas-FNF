@@ -1,0 +1,53 @@
+{
+	"style": "pixel",
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "firey20",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey firey."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "firey20",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hows it goin-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "idk, how about you stfu"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "firey20",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "............"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello"
+		}
+	]
+}

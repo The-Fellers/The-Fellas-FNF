@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"loop": false,
-			"offsets": [10, -34],
+			"offsets": [37, 11],
 			"anim": "firstDeath",
 			"fps": 24,
 			"name": "BF dies",
@@ -27,11 +27,11 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/firey",
+	"image": "characters/fsidesdie",
 	"position": [0, 350],
-	"healthicon": "bf",
+	"healthicon": "fbf",
 	"flip_x": true,
-	"healthbar_colors": [49, 176, 209],
+	"healthbar_colors": [255, 0, 0],
 	"camera_position": [0, 0],
 	"sing_duration": 4,
 	"scale": 1,

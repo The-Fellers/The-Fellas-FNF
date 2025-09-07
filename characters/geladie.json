@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [43, 61],
+			"indices": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "DEATH PICO instance"
+		},
+		{
+			"offsets": [40, 66],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "DEATH PICO instance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gelaplay",
+	"position": [15, 335],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [183, 216, 85],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

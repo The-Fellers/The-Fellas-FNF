@@ -1,55 +1,63 @@
 {
 	"animations": [
 		{
-			"offsets": [122, 122],
-			"loop": false,
+			"offsets": [95, 77],
+			"indices": [],
 			"fps": 12,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"anim": "intro1",
+			"loop": false,
+			"name": "pissed"
 		},
 		{
-			"offsets": [144, 86],
-			"loop": false,
+			"offsets": [92, 55],
+			"indices": [],
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
 		},
 		{
-			"offsets": [125, 101],
-			"loop": false,
+			"offsets": [96, 77],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
+			"loop": false,
 			"name": "right"
 		},
 		{
-			"offsets": [112, 98],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
+			"offsets": [96, 75],
 			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
 		},
 		{
-			"offsets": [116, 84],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
+			"offsets": [94, 76],
 			"indices": [],
-			"name": "down"
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [94, 82],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/blocky",
+	"image": "characters/blockyplay",
 	"position": [0, 300],
 	"healthicon": "blocky",
 	"flip_x": true,
-	"healthbar_colors": [255, 48, 76],
-	"camera_position": [60, 0],
+	"healthbar_colors": [212, 66, 66],
+	"camera_position": [200, 40],
 	"sing_duration": 4,
-	"scale": 0.8,
+	"scale": 0.7,
 	"_editor_isPlayer": false
 }

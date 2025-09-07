@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [887, 393],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Darnell Pose Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [83, 319],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Darnell pose right",
+			"indices": []
+		},
+		{
+			"offsets": [1265, 370],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "darnell pose left"
+		},
+		{
+			"offsets": [440, 349],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Darnell pose up"
+		},
+		{
+			"offsets": [18, -137],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Darnell Idle"
+		},
+		{
+			"offsets": [9, -136],
+			"indices": [],
+			"fps": 24,
+			"anim": "pissed",
+			"loop": false,
+			"name": "Darnell Gets Pissed"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/firey20",
+	"position": [-10, 210],
+	"healthicon": "fire20",
+	"flip_x": false,
+	"healthbar_colors": [255, 67, 0],
+	"camera_position": [-160, 180],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
