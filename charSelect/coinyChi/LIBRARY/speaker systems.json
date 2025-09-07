@@ -1,0 +1,51 @@
+{"L":[
+{
+"LN":"Layer_3",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"_bodies/Announcer/Announcer Front Vibrating",
+"FF":3,
+"ST":"G",
+"TRP":{"x":115.4,"y":256.4},
+"LP":"SF",
+"MX":[1,0,0,1,115.4,195.75]
+}}]},{
+"I":2,
+"DU":13,
+"E":[
+{"SI":{
+"SN":"_bodies/Announcer/Announcer Front Vibrating",
+"FF":4,
+"ST":"G",
+"TRP":{"x":115.45,"y":256.4},
+"LP":"SF",
+"MX":[1,0,0,1,115.45,195.75]
+}}]},{
+"I":15,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"_bodies/Announcer/Announcer Front Vibrating",
+"FF":3,
+"ST":"G",
+"TRP":{"x":114.5,"y":256.9},
+"LP":"SF",
+"MX":[1,0,0,1,114.5,196.25]
+}}]},{
+"I":18,
+"DU":12,
+"E":[
+{"SI":{
+"SN":"_bodies/Announcer/Announcer Front Vibrating",
+"FF":4,
+"ST":"G",
+"TRP":{"x":112.6,"y":256.45},
+"LP":"SF",
+"MX":[1,0,0,1,112.6,195.8]
+}}]}
+]}
+]}

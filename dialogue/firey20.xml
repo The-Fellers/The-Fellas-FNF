@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="firey20.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darnell Gets Pissed instance 10000" x="0" y="0" width="435" height="391" frameX="-8" frameY="-8" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10001" x="435" y="0" width="434" height="389" frameX="-9" frameY="-10" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10002" x="869" y="0" width="444" height="392" frameX="-12" frameY="-7" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10003" x="869" y="0" width="444" height="392" frameX="-12" frameY="-7" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10004" x="1313" y="0" width="455" height="397" frameX="-5" frameY="-2" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10005" x="1313" y="0" width="455" height="397" frameX="-5" frameY="-2" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10006" x="1768" y="0" width="457" height="398" frameX="-1" frameY="-1" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10007" x="1768" y="0" width="457" height="398" frameX="-1" frameY="-1" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10008" x="2225" y="0" width="454" height="383" frameX="-2" frameY="-16" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10009" x="2225" y="0" width="454" height="383" frameX="-2" frameY="-16" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10010" x="2225" y="0" width="454" height="383" frameX="-2" frameY="-16" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10011" x="2225" y="0" width="454" height="383" frameX="-2" frameY="-16" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10012" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10013" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10014" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10015" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10016" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10017" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10018" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10019" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10020" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10021" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10022" x="2679" y="0" width="454" height="395" frameX="-2" frameY="-4" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10023" x="3133" y="0" width="452" height="389" frameX="-2" frameY="-10" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10024" x="3585" y="0" width="453" height="389" frameX="-1" frameY="-10" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10025" x="4038" y="0" width="452" height="389" frameX="-1" frameY="-10" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10026" x="4490" y="0" width="453" height="396" frameX="0" frameY="-3" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10027" x="4943" y="0" width="458" height="396" frameX="0" frameY="-3" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10028" x="5401" y="0" width="425" height="397" frameX="-9" frameY="-2" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10029" x="5826" y="0" width="385" height="397" frameX="-49" frameY="-2" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10030" x="6211" y="0" width="375" height="399" frameX="-49" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10031" x="6586" y="0" width="358" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10032" x="6944" y="0" width="352" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10033" x="6944" y="0" width="352" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10034" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10035" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10036" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10037" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10038" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Gets Pissed instance 10039" x="7296" y="0" width="350" height="399" frameX="-66" frameY="0" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10000" x="0" y="0" width="435" height="391" frameX="-7" frameY="-7" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10001" x="435" y="0" width="434" height="389" frameX="-8" frameY="-9" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10002" x="869" y="0" width="444" height="392" frameX="-11" frameY="-6" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10003" x="869" y="0" width="444" height="392" frameX="-11" frameY="-6" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10004" x="1313" y="0" width="455" height="397" frameX="-4" frameY="-1" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10005" x="1313" y="0" width="455" height="397" frameX="-4" frameY="-1" frameWidth="460" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10006" x="7646" y="0" width="457" height="398" frameX="0" frameY="0" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10007" x="7646" y="0" width="457" height="398" frameX="0" frameY="0" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10008" x="0" y="399" width="454" height="383" frameX="-1" frameY="-15" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10009" x="0" y="399" width="454" height="383" frameX="-1" frameY="-15" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10010" x="0" y="399" width="454" height="383" frameX="-1" frameY="-15" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10011" x="0" y="399" width="454" height="383" frameX="-1" frameY="-15" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10012" x="454" y="399" width="454" height="395" frameX="-1" frameY="-3" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Idle instance 10013" x="454" y="399" width="454" height="395" frameX="-1" frameY="-3" frameWidth="459" frameHeight="399"/>
+	<SubTexture name="Darnell Pose Down instance 10000" x="908" y="399" width="1195" height="854" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10001" x="908" y="399" width="1195" height="854" frameX="0" frameY="0" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10002" x="2103" y="399" width="1235" height="896" frameX="0" frameY="0" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10003" x="2103" y="399" width="1235" height="896" frameX="-41" frameY="-41" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10004" x="2103" y="399" width="1235" height="896" frameX="-41" frameY="-41" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10005" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10006" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10007" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10008" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10009" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10010" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10011" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10012" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10013" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10014" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell Pose Down instance 10015" x="2103" y="399" width="1235" height="896" frameX="-42" frameY="-42" frameWidth="1237" frameHeight="896"/>
+	<SubTexture name="Darnell pose right instance 10000" x="3338" y="399" width="410" height="851" frameX="0" frameY="0" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10001" x="3748" y="399" width="410" height="851" frameX="0" frameY="0" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10002" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-41" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10003" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-41" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10004" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10005" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10006" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10007" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10008" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10009" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10010" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose right instance 10011" x="4158" y="399" width="401" height="810" frameX="-24" frameY="-42" frameWidth="425" frameHeight="851"/>
+	<SubTexture name="Darnell pose up instance 10000" x="4559" y="399" width="808" height="881" frameX="0" frameY="0" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10001" x="5367" y="399" width="808" height="881" frameX="0" frameY="0" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10002" x="6175" y="399" width="778" height="842" frameX="-41" frameY="-41" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10003" x="6953" y="399" width="778" height="842" frameX="-41" frameY="-41" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10004" x="0" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10005" x="777" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10006" x="1554" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10007" x="2331" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10008" x="3108" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10009" x="3885" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10010" x="4662" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10011" x="5439" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10012" x="6175" y="399" width="778" height="842" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10013" x="6953" y="399" width="778" height="842" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10014" x="0" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="Darnell pose up instance 10015" x="777" y="1295" width="777" height="841" frameX="-42" frameY="-42" frameWidth="819" frameHeight="883"/>
+	<SubTexture name="darnell pose left instance 10000" x="6216" y="1295" width="1650" height="914"/>
+	<SubTexture name="darnell pose left instance 10001" x="6216" y="1295" width="1650" height="914"/>
+	<SubTexture name="darnell pose left instance 10002" x="0" y="2209" width="1605" height="873" frameX="-41" frameY="-41" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10003" x="0" y="2209" width="1605" height="873" frameX="-41" frameY="-41" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10004" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10005" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10006" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10007" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10008" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10009" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10010" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10011" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10012" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10013" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+	<SubTexture name="darnell pose left instance 10014" x="0" y="2209" width="1605" height="873" frameX="-42" frameY="-42" frameWidth="1650" frameHeight="914"/>
+</TextureAtlas>
