@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gelamenu.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico HEY!! copy instance 10000" x="0" y="0" width="338" height="272" frameX="-14" frameY="0" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10001" x="338" y="0" width="338" height="272" frameX="-14" frameY="0" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10002" x="676" y="0" width="330" height="271" frameX="-6" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10003" x="676" y="0" width="330" height="271" frameX="-6" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10004" x="1006" y="0" width="342" height="271" frameX="0" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10005" x="1006" y="0" width="342" height="271" frameX="0" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10006" x="1006" y="0" width="342" height="271" frameX="0" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico HEY!! copy instance 10007" x="1006" y="0" width="342" height="271" frameX="0" frameY="-2" frameWidth="352" frameHeight="273"/>
+	<SubTexture name="Pico Idle Dance copy instance 10000" x="1348" y="0" width="344" height="250" frameX="0" frameY="-24" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10001" x="1348" y="0" width="344" height="250" frameX="0" frameY="-24" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10002" x="1692" y="0" width="342" height="251" frameX="-8" frameY="-22" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10003" x="1692" y="0" width="342" height="251" frameX="-8" frameY="-22" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10004" x="0" y="272" width="332" height="257" frameX="-6" frameY="-15" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10005" x="332" y="272" width="335" height="267" frameX="-6" frameY="-15" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10006" x="667" y="272" width="323" height="268" frameX="-8" frameY="-4" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10007" x="990" y="272" width="338" height="268" frameX="-8" frameY="-4" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10008" x="1328" y="272" width="337" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10009" x="1328" y="272" width="337" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10010" x="1328" y="272" width="337" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10011" x="1328" y="272" width="337" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10012" x="1328" y="272" width="337" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+	<SubTexture name="Pico Idle Dance copy instance 10013" x="1665" y="272" width="331" height="272" frameX="-9" frameY="0" frameWidth="350" frameHeight="282"/>
+</TextureAtlas>

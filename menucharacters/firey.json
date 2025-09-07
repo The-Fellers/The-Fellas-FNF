@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Fire idle",
+	"image": "Menu_firey",
+	"position": [202, 111],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.5,
+	"confirm_anim": "Fire select"
+}

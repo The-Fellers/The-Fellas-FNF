@@ -1,0 +1,11 @@
+{
+  "name": "stickers-set-leafsterdie",
+  "artist": "LPTWZ",
+  "stickers": {
+    "leafsterdie": ["leafsterdie/spritemap1"]
+  },
+  "stickerPacks": {
+    "all": ["leafsterdie"],
+    "leafsterdie": ["leafsterdie"]
+  }
+}

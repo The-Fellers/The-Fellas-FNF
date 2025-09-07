@@ -1,0 +1,21 @@
+{
+  // Name of this SET. I recommend to name it the same as the directory this file is in
+  "name": "stickers-set-3", 
+  // Not used, but here's the free clout field
+  "artist": "PhantomArcade3K",
+  //The list of sticker groups. This helps to better organise your stickers (ex. assigning to 'bf' sticker images 'bfSticker1.png','bfSticker2.png','bfSticker3.png')
+  "stickers": {
+    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
+    "dad": ["dadSticker1", "dadSticker2", "dadSticker3"],
+    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"],
+    "mom": ["momSticker1", "momSticker2", "momSticker3"],
+    "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
+    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"]
+  },
+  // The list of STICKER_PACKs. Here you can group characters to create a PACK to be used on a sticker transition.
+  "stickerPacks": {
+    "bf-gf": ["bf", "gf"],
+    "parents": ["dad", "mom"],
+    "all": ["bf", "gf", "dad", "mom", "monster", "pico"]
+  }
+}

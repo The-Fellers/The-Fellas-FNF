@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "Pico HEY!! copy",
+	"antialiasing": true,
+	"idle_anim": "Pico Idle Dance copy",
+	"position": [38, -94],
+	"scale": 0.7,
+	"image": "gelamenu",
+	"flipX": false
+}

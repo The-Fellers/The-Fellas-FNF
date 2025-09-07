@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pinclap.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Girlfriend Good Anim instance 10000" x="0" y="0" width="867" height="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10001" x="867" y="0" width="830" height="615" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10002" x="867" y="0" width="830" height="615" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10003" x="1697" y="0" width="811" height="568" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10004" x="1697" y="0" width="811" height="568" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10005" x="2508" y="0" width="812" height="571" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10006" x="2508" y="0" width="812" height="571" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10007" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10008" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10009" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10010" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10011" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10012" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10013" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10014" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10015" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10016" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10017" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10018" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10019" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10020" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10021" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10022" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10023" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10024" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10025" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10026" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10027" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10028" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10029" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10030" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10031" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10032" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10033" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10034" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10035" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10036" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10037" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10038" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10039" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10040" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10041" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10042" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10043" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10044" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10045" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10046" x="1636" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10047" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10048" x="2454" y="652" width="818" height="581" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10049" x="0" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10050" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+	<SubTexture name="Girlfriend Good Anim instance 10051" x="818" y="652" width="818" height="584" frameX="0" frameY="0" frameWidth="867" frameHeight="652"/>
+</TextureAtlas>

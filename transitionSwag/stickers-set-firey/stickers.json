@@ -1,0 +1,11 @@
+{
+  "name": "stickers-set-firey",
+  "artist": "LPTWZ",
+  "stickers": {
+    "firey": ["fireySticker1", "fireySticker2", "fireySticker3"],
+  },
+  "stickerPacks": {
+    "all": ["firey"]
+	"firey": ["firey"]	
+  }
+}
